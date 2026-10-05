@@ -12,3 +12,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsWaFF&theme=rose_pine)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsWaFF&theme=rose_pine) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsWaFF&theme=rose_pine) 
+
+![](https://komarev.com/ghpvc/?username=IsWaFF&color=green)
